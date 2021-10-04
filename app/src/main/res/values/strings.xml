@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Dictionary</string>
+    <string name="tab_text_1">Explore</string>
+    <string name="tab_text_2">Favorites</string>
+</resources>
